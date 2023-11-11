@@ -13,7 +13,7 @@ const Exchanges = () => {
   const { data, isFetching } = useGetExchangesQuery();
   const exchangesList = data?.data?.exchanges;
  // Note: To access this endpoint you need premium plan
-  if (isFetching) return <Loader />;
+  if (isFetching) return <Loader /> && <>// Note: To access this endpoint you need premium plan</>;
 
   return (
     <>
