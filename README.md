@@ -60,22 +60,22 @@ Crypto Tracker is a web application that provides information about cryptocurren
 ## Application Preview
 
 ### Home Page
-![Home Page](images/home.png)
+![Home Page](src/images/home.png)
 
 ### Cryptocurrencies Section
-![Cryptocurrencies Section](images/cryptocurrencies.png)
+![Cryptocurrencies Section](src/images/cryptocurrencies.png)
 
 ### Cryptocurrency Details
-![Cryptocurrency Details](images/cryptocurrency.png)
+![Cryptocurrency Details](src/images/cryptocurrency.png)
 
 ### Crypto Charts
-![Crypto Charts](images/cryptocharts.png)
+![Crypto Charts](src/images/cryptocharts.png)
 
 ### Crypto Stats
-![Crypto Stats](images/cryptostats.png)
+![Crypto Stats](src/images/cryptostats.png)
 
 ### News Section
-![News Section](images/news.png)
+![News Section](src/images/news.png)
 
 ## Usage
 
