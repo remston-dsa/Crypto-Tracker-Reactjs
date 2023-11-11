@@ -1,6 +1,6 @@
 # Crypto Tracker
 
-![Crypto Tracker](images/cryptocurrency.png)
+![Crypto Tracker](src/images/cryptocurrency.png)
 
 Crypto Tracker is a web application that provides information about cryptocurrencies, exchanges, and related news. This project is developed by Remston Dsa.
 
