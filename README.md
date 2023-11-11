@@ -83,7 +83,7 @@ Crypto Tracker is a web application that provides information about cryptocurren
 
 ## Credits
 
-- Developed by Remston Dsa.
+- Modified by Remston Dsa Nov 11, 2023. Referred to https://github.com/adrianhajdin/threads
 
 ## License
 
