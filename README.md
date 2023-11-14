@@ -1,6 +1,7 @@
 # Crypto Tracker
 
 <img src="src/images/cryptocurrency.png" alt="Crypto Tracker" width="300"/>
+[Live Demo](https://crypto-tracker-by-remston.netlify.app)
 
 
 Crypto Tracker is a web application that provides information about cryptocurrencies, exchanges, and related news. This project is developed by Remston Dsa.
